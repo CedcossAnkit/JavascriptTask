@@ -339,3 +339,12 @@ else{
   console.log('not eleigible for voating');
 
 }
+
+//Comparison with the Strict Inequality Operator
+if(age!==18){
+    console.log('eleigible for voating');
+}
+else{
+  console.log('not eleigible for voating');
+
+}
