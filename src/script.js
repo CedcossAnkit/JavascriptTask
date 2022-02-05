@@ -198,3 +198,9 @@ const myArray = [
   
   const myData = myArray[2][1];
   console.log(myData);
+
+  //Manipulate Arrays With push()
+  var my=[1,2,3,4];
+  console.log(my.slice(0,my.length));
+  my.push(5);
+  console.log(my.slice(0,my.length));
