@@ -405,3 +405,11 @@ if(age==18 || hff==20){
 }else if(age!=18){
     console.log("Not Eligible");
 }
+//Logical Order in If Else Statements
+if(age==18 || hff==20){
+    console.log('eleigible for voatingggggg');
+}else if(age!=18){
+    console.log("Not Eligible");
+}else{
+    console.log('if (if and if else) not exicuted then else exicuted');
+}
