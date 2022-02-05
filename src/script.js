@@ -220,3 +220,16 @@ const myArray = [
   //Shopping List
   const myList = ["choco","banana","mango","orange","more"];
   console.log(myList.slice(0,myList.length));
+
+  //Write Reusable JavaScript with Functions
+  function slc(a,b,arr){
+      for(var i=a;i<b;i++){
+       console.log(arr[i]);
+      }
+
+  }
+
+  const newarr=[1,2,3,4,5,6,7,8,9,10];
+  console.log(slc(0,4,newarr));
+
+  //
