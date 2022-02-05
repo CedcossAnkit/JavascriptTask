@@ -301,4 +301,12 @@ function nextInLine(arr, item) {
   var tr=true;
   var fa=false;
   console.log(typeof(tr),typeof(fa));
-  
+
+  //Use Conditional Logic with If Statements
+  var cond=0;
+  if(cond==0){
+      console.log('zero');
+  }
+  else{
+      console.log('not zero');
+  }
