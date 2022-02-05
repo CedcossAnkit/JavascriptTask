@@ -115,3 +115,5 @@ a /=12;
 b /=9;
 c /=7;
 console.log(a,b,c)
+
+//Escaping Literal Quotes in Strings
