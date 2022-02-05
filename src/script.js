@@ -391,3 +391,10 @@ if(age==18 && hff==20){
 if(age==18 || hff==20){
     console.log('eleigible for voatingggggg');
 }
+
+//Introducing Else Statements
+if(age==18 || hff==20){
+    console.log('eleigible for voatingggggg');
+}else{
+    console.log("Not Eligible");
+}
