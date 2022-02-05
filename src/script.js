@@ -387,3 +387,7 @@ var hff=20;
 if(age==18 && hff==20){
     console.log('eleigible for voatingggggg');
 }
+//Comparisons with the Logical Or Operator
+if(age==18 || hff==20){
+    console.log('eleigible for voatingggggg');
+}
