@@ -3,3 +3,5 @@
 
 var myname;
 myname="ankit aginhotry";
+var yourname;
+yourname=myname;
