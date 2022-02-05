@@ -126,4 +126,7 @@ var singleqoute='Quoting Strings with Single Quotes';
 const myStr = "FirstLine\n\
         \t\SecondLine\nThirdLine";
 
-//
+//Concatenating Strings with Plus Operator
+var str1="ankit",str2="aginhotry";
+var fname=str1+str2;
+console.log(fname);
