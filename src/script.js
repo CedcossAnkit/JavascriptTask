@@ -23,3 +23,15 @@ c = c + " String!";
 //both are different 
 var abc=0;
 var ABC=0;
+
+
+//this is allow in var 
+var mark=0;
+var mark=32;
+mark=34;
+
+//th is is valid
+let marks=0;
+marks=23;
+//This is not valid for let
+// var marks=34;
