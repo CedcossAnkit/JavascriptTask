@@ -312,3 +312,12 @@ function nextInLine(arr, item) {
   else{
       console.log('not zero');
   }
+
+  //Strict Equality Operator
+  var cond1=0;
+  if(cond===cond1){
+      console.log('type and value same')
+  }else{
+    console.log('type and value not same')
+
+  }
