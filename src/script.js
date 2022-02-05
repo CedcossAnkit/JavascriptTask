@@ -303,6 +303,8 @@ function nextInLine(arr, item) {
   console.log(typeof(tr),typeof(fa));
 
   //Use Conditional Logic with If Statements
+  //and
+  //Comparison with the Equality Operator
   var cond=0;
   if(cond==0){
       console.log('zero');
