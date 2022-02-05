@@ -50,7 +50,7 @@ document.write("add :",add);
 var num11=20;
 var num22=50;
 
-var sub=num22/num11;
+var sub=num22-num11;
 document.write("Subtract One Number from Another with JavaScript: "+sub);
 
 //Multiply Two Numbers with JavaScript
@@ -58,3 +58,10 @@ var muti1=10;
 var multi2=5;
 var multi=multi2*muti1;
 document.write("Multiply: "+muti1);
+
+//Divide One Number by Another with JavaScript
+var num11=20;
+var num22=50;
+
+var sub=num22/num11;
+document.write(sub);
