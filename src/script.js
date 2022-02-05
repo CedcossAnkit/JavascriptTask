@@ -365,3 +365,11 @@ else{
   console.log('not eleigible for voating');
 
 }
+//Comparison with the Less Than Operator
+if(age>=18){
+    console.log('eleigible for voatingggggg');
+}
+else{
+  console.log('not eleigible for voating');
+
+}
