@@ -271,3 +271,14 @@ function undef(a){
 
 var bcb;
 console.log(undef(bcb));//this will show undefine 
+
+//Assignment with a Returned Value
+// Setup
+let processed = 2;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+// Only change code below this line
+processed=processArg(7);
