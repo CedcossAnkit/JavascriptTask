@@ -118,3 +118,12 @@ console.log(a,b,c)
 
 //Escaping Literal Quotes in Strings
 const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
+//Quoting Strings with Single Quotes
+var singleqoute='Quoting Strings with Single Quotes';
+
+//Escape Sequences in Strings
+const myStr = "FirstLine\n\
+        \t\SecondLine\nThirdLine";
+
+//
