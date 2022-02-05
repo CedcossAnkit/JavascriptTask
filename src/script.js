@@ -207,3 +207,7 @@ const myArray = [
 
   //Manipulate Arrays With pop()
   console.log(my.pop());
+
+
+  //Manipulate Arrays With shift()
+  console.log(my.shift())
