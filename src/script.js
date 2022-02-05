@@ -72,3 +72,6 @@ document.write(incre++);
 //Decrement a Number with JavaScript
 var decre=1;
 document.write(decre--);
+//Create Decimal Numbers with JavaScript
+var deci=0.343;
+document,write('\n'+deci);
