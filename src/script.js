@@ -130,3 +130,8 @@ const myStr = "FirstLine\n\
 var str1="ankit",str2="aginhotry";
 var fname=str1+str2;
 console.log(fname);
+//Concatenating Strings with the Plus Equals Operator
+var str1="ankit";
+var str2="";
+var str2=str1+"";
+console.log(str2);
