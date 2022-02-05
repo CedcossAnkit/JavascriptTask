@@ -156,5 +156,8 @@ console.log(str3[0]);
 var unsimm="ankit";
 console.log(unsimm);
 
+//you can't change the value once string is creted bca of immutable.
 unsimm[0]='W';
 console.log(unsimm);
+//Use Bracket Notation to Find the Nth Character in a String
+console.log(unsimm[3]);
