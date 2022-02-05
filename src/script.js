@@ -222,6 +222,8 @@ const myArray = [
   console.log(myList.slice(0,myList.length));
 
   //Write Reusable JavaScript with Functions
+  and
+  //Passing Values to Functions with Arguments
   function slc(a,b,arr){
       for(var i=a;i<b;i++){
        console.log(arr[i]);
