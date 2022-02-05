@@ -204,3 +204,6 @@ const myArray = [
   console.log(my.slice(0,my.length));
   my.push(5);
   console.log(my.slice(0,my.length));
+
+  //Manipulate Arrays With pop()
+  console.log(my.pop());
