@@ -2,3 +2,4 @@
 //Single Line Comment
 
 var myname;
+myname="ankit aginhotry";
