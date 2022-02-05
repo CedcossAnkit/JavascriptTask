@@ -82,20 +82,20 @@ document.write('\n',d1*d2);
 //Divide One Decimal by Another with JavaScript
 var d1,d2;
 d1=23.4.d2=23.4;
-console.write(d1/d2);
+console.log(d1/d2);
 //Finding a Remainder in JavaScript
 var rem,n1,n2;
 n1=20,n2=39;
 rem=n1%n2;
 console.log(rem);
 //Compound Assignment With Augmented Addition
-let a = 3;
-let b = 17;
-let c = 12;
+let ab = 3;
+let bb = 17;
+let cb = 12;
 
-a +=12;
-b +=9;
-c +=7;
+ab +=12;
+bb +=9;
+cb +=7;
 console.log(a,b,c)
 
 //Compound Assignment With Augmented Subtraction
@@ -123,7 +123,7 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 var singleqoute='Quoting Strings with Single Quotes';
 
 //Escape Sequences in Strings
-const myStr = "FirstLine\n\
+const mySttr = "FirstLine\n\
         \t\SecondLine\nThirdLine";
 
 //Concatenating Strings with Plus Operator
@@ -141,13 +141,20 @@ var str2="";
 var str2=str1+"";
 console.log(str2);
 //
-const someAdjective= "qweer";
-let myStr = "Learning to code is ";
+var someAdjective= "qweer";
+var myStttr = "Learning to code is ";
 someAdjective+=myStr;
-myStr+=someAdjective;
+
 //Find the Length of a String
 var str1="askduasdjksadaskdblasbdjnasd";
 console.log("String Length: "+str1);
 //Use Bracket Notation to Find the First Character in a String
 var str3="ankit"
 console.log(str3[0]);
+
+//Understand String Immutability
+var unsimm="ankit";
+console.log(unsimm);
+
+unsimm[0]='W';
+console.log(unsimm);
