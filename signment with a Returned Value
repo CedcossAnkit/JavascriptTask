@@ -1,0 +1,335 @@
+[33mcommit 4667c691719b9285e212ac7b77e2168c35bca441[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 13:08:44 2022 +0530
+
+    Assignment with a Returned Value
+
+[33mcommit 1e9fed31066c45331a5c353e76a15168aa36e5d7[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 13:05:04 2022 +0530
+
+    Value Unefine Understand by function return
+
+[33mcommit 3c005f1c2a24f85b2b73308e7e0418aa37f9da64[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 13:02:08 2022 +0530
+
+    Local Scope vs Global Scope
+
+[33mcommit 936b081c4b6d74b2d099da04cf46a9626902d8d5[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:58:55 2022 +0530
+
+    Local var Dclare inside the function
+
+[33mcommit ca544046d998b2cd81b49ae39d840e0f26f4dcb8[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:56:17 2022 +0530
+
+    Global and local varible Define
+
+[33mcommit 56f5cce7094e90a3f37dc244188bd507bddaf32a[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:55:59 2022 +0530
+
+    Global and local varible Define
+
+[33mcommit 909fbd0555eea905ea21eba96a6d15ce9d7bcf34[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:47:38 2022 +0530
+
+    Return a Value from a Function with Return
+
+[33mcommit 982cadce3334f067962adef9e29e456a62a641f0[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:46:11 2022 +0530
+
+    Passing Values to Functions with Arguments
+
+[33mcommit 54e6cd865fb9f67e07445bd1fd8b4a0fc9f8ad97[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:44:10 2022 +0530
+
+    reusable Fucntion Created
+
+[33mcommit 6458c073f89c11d4007c78eb3ff9c4944eada421[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:33:09 2022 +0530
+
+    Shopping List Created
+
+[33mcommit 10ec196c062f9a7e35940d1293de7e1732678314[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:24:33 2022 +0530
+
+    Shif() used in array
+
+[33mcommit 111ecb22d348a7c6363558ac8358432872a4653e[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:22:26 2022 +0530
+
+    pop() used in array
+
+[33mcommit 0f22990768117863bc33242735894d8ec771231d[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:20:29 2022 +0530
+
+    push() used in array
+
+[33mcommit 13d045b1a5a36470d71729cbb638b85644618b28[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:18:12 2022 +0530
+
+    Array fached in Multi-Dimensional
+
+[33mcommit a867148d2e911d0091686a35d4d8cfb0cdeb6e33[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:14:19 2022 +0530
+
+    Data Inserted using array Indexing
+
+[33mcommit 4b7848a40f5cdaf134e629db9a54a9812122a85d[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:12:18 2022 +0530
+
+    Array fached using Indexing
+
+[33mcommit d5950d8063b9a2f96dfe85175a78efcb797243c5[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:10:23 2022 +0530
+
+    Nested Array Created
+
+[33mcommit 4ca35be808af103d5eb37e76c5f954e99656e0dd[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:06:19 2022 +0530
+
+    javaScript Array Used
+
+[33mcommit 89a10e9a9caa8de83e49fb7f918674ddace9d828[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 12:03:09 2022 +0530
+
+    Word Blanks
+
+[33mcommit 50fdadc512939bf2daf1970d0d97ce0624285ade[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:58:13 2022 +0530
+
+    String Slice Used
+
+[33mcommit 818480f6cad694cb3a62445b824f86c5a4da53fe[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:55:36 2022 +0530
+
+    Use Bracket Notation to Find the Last Character in a String
+
+[33mcommit 73cbd4383396673c93a62475fcc593b78c94d5cd[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:52:42 2022 +0530
+
+    Use Bracket Notation to Find the nth character in a String
+
+[33mcommit 2b473dfc86b9068dfcf5721698810e9af8d885b3[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:50:32 2022 +0530
+
+    Strings are Immutable
+
+[33mcommit 71e09cc03efff0369471a4658dceb2a8b0e56b02[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:42:58 2022 +0530
+
+    Use Bracket Notation to Find the First Character in a String
+
+[33mcommit 73b3f591e92a021adf7f3df7ed23dc30014d85bc[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:39:41 2022 +0530
+
+    /*MultiLine Comment*/
+
+[33mcommit 75ec7d8faa3b6cbe11591ac580d9081c92c08aa0[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:37:53 2022 +0530
+
+    Appending Variables to Strings
+
+[33mcommit 916ddd9fb67c1b8c07404278c8b5a3b5794a2e7c[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:32:21 2022 +0530
+
+    var str1=ankit;
+
+[33mcommit b3a50422f239892f95b226f85aa6c5f879ed08f8[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:31:18 2022 +0530
+
+    Concatenating Strings with the Plus Equals Operator
+
+[33mcommit a4cac8ae95568f2e26209fa9a166d0db674624e4[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:29:16 2022 +0530
+
+    String Concatinated
+
+[33mcommit 2e839b28d4a900a0975644db0a89d06b937c2654[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:27:11 2022 +0530
+
+    Escape Sequences in Strings
+
+[33mcommit 60eb526cbd4c729d2238de94bf1b105f0e5ab4b0[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:19:56 2022 +0530
+
+    Single Qoute String Created
+
+[33mcommit cae8265d8cc1d34f3a9a62ac4591e9b880721e05[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:18:12 2022 +0530
+
+    Escaping Literal Qoutes in Strings
+
+[33mcommit 9e63843483b6af34df49f5812659e48d3e5ee648[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:13:51 2022 +0530
+
+    Compound Assignment With Augmented Division
+
+[33mcommit a0263d7038702fe025efed676957f1f5f2cd98bc[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:12:28 2022 +0530
+
+    console.log(a,b,c)
+
+[33mcommit a45be5c7e6b07bf8ca544126674ab93882c3cf8c[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:10:20 2022 +0530
+
+    Compound Assignment With Augmented Subtraction
+
+[33mcommit 8c4a5c8096361efb341163f3cc407caac695518f[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:08:42 2022 +0530
+
+    Compound Assignment With Augmented Addition
+
+[33mcommit 5e095f697f53d68d12dfe0546a921565c182afd5[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:03:23 2022 +0530
+
+    Finding a Remainder in JavaScript
+
+[33mcommit b4ebf09e88657fb6df51bdc33607a5017ba05990[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 11:00:31 2022 +0530
+
+    t: 30Multiply: 102.511 0.343 6.66
+
+[33mcommit b99d3b24e185785f7ad1081e5af4c1089d335f80[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:58:04 2022 +0530
+
+    Multiply Two Decimals with JavaScript
+
+[33mcommit 23c8907ed3994ad8c1568b0d60f6697bf5a2d022[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:56:39 2022 +0530
+
+    Create Decimal Numbers with JavaScript
+
+[33mcommit de80d566363c5d307c302ddb311730aea0d8ffbe[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:53:53 2022 +0530
+
+    Decrement a Number with JavaScript
+
+[33mcommit ea730be96c0a9bb80867794b29166a1375741cf5[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:52:17 2022 +0530
+
+    Increment a Number with JavaScript
+
+[33mcommit 69e8e487137a141d758b282c40ad4f02b6cbb0f7[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:50:37 2022 +0530
+
+    divide one var to another var value
+
+[33mcommit ce977d06f48e123625a70b131de27ac58770f004[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:48:49 2022 +0530
+
+    Multiply Two Numbers with JavaScript
+
+[33mcommit 4b8dc32e1f96e64290300f4eb2f8b7eebdbf720e[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:46:46 2022 +0530
+
+    Subtract One Number from Another with JavaScript'
+
+[33mcommit f16c9046d824587f827eb2a82e0dc1d301a8fd58[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:44:53 2022 +0530
+
+    two number added
+
+[33mcommit eea173b34f6e7454a2333226f8f17490850bfedd[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:39:53 2022 +0530
+
+    Diff Btw var and let
+
+[33mcommit ad428f8de33332c9863071e418542c5f83c5aa4e[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:36:59 2022 +0530
+
+    Varible Name is Case Sensitive
+
+[33mcommit 8abfe57e89b402288bc1443a610c9bf5a4d0f646[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:34:57 2022 +0530
+
+    Understanding Uninitialized Variables
+
+[33mcommit bdd01e39891f16b00be4acb16c0a68dad7e7e317[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:30:05 2022 +0530
+
+    String varible Declare
+
+[33mcommit f6fcbf9c9655648a307c3f6509646d7c69877917[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:28:42 2022 +0530
+
+    varible value assign through assignment operator
+
+[33mcommit 8747aba56295dce093eca5e33b1cc49c2e4560c6[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:25:48 2022 +0530
+
+    One varible Assign to a another variable
+
+[33mcommit fdf2dd5e32bb5fd751545c4bc2b2bee51a20a2b2[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:23:48 2022 +0530
+
+    Assign Value to a variable
+
+[33mcommit b674482b55bdb35f994eca227ad36b6cf5eac641[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:22:15 2022 +0530
+
+    variable Declare
+
+[33mcommit 20d7bbb04be9a08207258425632f770b9cd2693a[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:20:37 2022 +0530
+
+    Comment Added
+
+[33mcommit 7166f0d53c3233b83d3ddb582c26dab9f29c6450[m
+Author: cedcoss@nkit <ankitaginhotry@cedcoss.com>
+Date:   Sat Feb 5 10:10:12 2022 +0530
+
+    Docker File Uploded
