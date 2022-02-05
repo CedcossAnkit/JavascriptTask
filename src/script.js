@@ -180,3 +180,6 @@ console.log(wordBlanks);
 //Store Multiple Values in one Variable using JavaScript Arrays
 const arr=['one','two','three','four','five'];
 console.log(arr.slice(0,arr.length));
+//Nest one Array within Another Array
+const nestedarr=['one','two',[12,3,5],'three'];
+console.log(nestedarr.slice(0,nestedarr.length));
