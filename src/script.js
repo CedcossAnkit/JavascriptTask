@@ -83,3 +83,8 @@ document.write('\n',d1*d2);
 var d1,d2;
 d1=23.4.d2=23.4;
 console.write(d1/d2);
+//Finding a Remainder in JavaScript
+var rem,n1,n2;
+n1=20,n2=39;
+rem=n1%n2;
+console.log(rem);
