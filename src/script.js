@@ -238,3 +238,23 @@ const myArray = [
   console.log(slc(0,4,newarr));
 
   //Global Scope and Functions
+  // Declare the myGlobal variable below this line
+let myGlobal=10;
+const oopsGlobal=5;
+
+function fun1() {
+
+}
+
+function fun2() {
+var output = "";
+if (typeof myGlobal != "undefined") {
+  output += "myGlobal: " + myGlobal;
+}
+if (typeof oopsGlobal != "undefined") {
+  output += " oopsGlobal: " + oopsGlobal;
+}
+console.log(output);
+}
+
+//
