@@ -89,3 +89,16 @@ n1=20,n2=39;
 rem=n1%n2;
 console.log(rem);
 //Compound Assignment With Augmented Addition
+let a = 3;
+let b = 17;
+let c = 12;
+
+a +=12;
+b +=9;
+c +=7;
+
+//Compound Assignment With Augmented Subtraction
+a -=12;
+b -=9;
+c -=7;
+//
