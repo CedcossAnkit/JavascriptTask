@@ -349,9 +349,17 @@ else{
 
 }
 //Comparison with the Greater Than Operator
-var age=17;
 if(age<18){
     console.log('eleigible for voating');
+}
+else{
+  console.log('not eleigible for voating');
+
+}
+
+//Comparison with the Greater Than Or Equal To Operator
+if(age<=18){
+    console.log('eleigible for voatingggggg');
 }
 else{
   console.log('not eleigible for voating');
