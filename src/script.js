@@ -88,3 +88,4 @@ var rem,n1,n2;
 n1=20,n2=39;
 rem=n1%n2;
 console.log(rem);
+//Compound Assignment With Augmented Addition
