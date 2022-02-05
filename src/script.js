@@ -168,3 +168,11 @@ console.log(unsimm[len-1]);
 //Use Bracket Notation to Find the Nth-to-Last Character in a String
 var stringg="ankit aginhotry"
 console.log(stringg.slice(0,3));
+//Word Blanks
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+const wordBlanks = ""+myNoun+"-"+myAdjective+"-"+myVerb+"-"+myAdverb+""; 
+console.log(wordBlanks);
