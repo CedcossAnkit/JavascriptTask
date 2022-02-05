@@ -96,12 +96,22 @@ let c = 12;
 a +=12;
 b +=9;
 c +=7;
+console.log(a,b,c)
 
 //Compound Assignment With Augmented Subtraction
 a -=12;
 b -=9;
 c -=7;
+console.log(a,b,c)
+
 //Compound Assignment With Augmented Multiplication
 a *=12;
 b *=9;
 c *=7;
+console.log(a,b,c)
+
+//Compound Assignment With Augmented Division
+a /=12;
+b /=9;
+c /=7;
+console.log(a,b,c)
