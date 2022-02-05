@@ -176,3 +176,7 @@ const myAdverb = "quickly";
 
 const wordBlanks = ""+myNoun+"-"+myAdjective+"-"+myVerb+"-"+myAdverb+""; 
 console.log(wordBlanks);
+
+//Store Multiple Values in one Variable using JavaScript Arrays
+const arr=['one','two','three','four','five'];
+console.log(arr.slice(0,arr.length));
