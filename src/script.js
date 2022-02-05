@@ -321,3 +321,13 @@ function nextInLine(arr, item) {
     console.log('type and value not same')
 
   }
+
+  //Practice comparing different values
+  var age=17;
+  if(age<18){
+      console.log('eleigible for voating');
+  }
+  else{
+    console.log('not eleigible for voating');
+
+  }
