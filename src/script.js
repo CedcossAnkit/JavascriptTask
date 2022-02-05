@@ -75,3 +75,7 @@ document.write(decre--);
 //Create Decimal Numbers with JavaScript
 var deci=0.343;
 document,write('\n'+deci);
+//Multiply Two Decimals with JavaScript
+var d1=0.9;
+var d2=7.4;
+document.write('\n',d1*d2);
