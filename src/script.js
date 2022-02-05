@@ -263,3 +263,11 @@ let dfd=0 //Global Scope
 function fun(){
     let a="";// Local Scope
 }
+
+//Understanding Undefined Value returned from a Function
+function undef(a){
+    return a;//this will return undefine 
+}
+
+var bcb;
+console.log(undef(bcb));//this will show undefine 
