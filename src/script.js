@@ -183,3 +183,5 @@ console.log(arr.slice(0,arr.length));
 //Nest one Array within Another Array
 const nestedarr=['one','two',[12,3,5],'three'];
 console.log(nestedarr.slice(0,nestedarr.length));
+//Access Array Data with Indexes
+console.log(nestedarr[1]);
