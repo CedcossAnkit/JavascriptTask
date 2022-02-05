@@ -382,3 +382,8 @@ else{
   console.log('not eleigible for voating');
 
 }
+//Comparisons with the Logical And Operator
+var hff=20;
+if(age==18 && hff==20){
+    console.log('eleigible for voatingggggg');
+}
