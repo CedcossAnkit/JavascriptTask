@@ -69,3 +69,6 @@ document.write(sub);
 //Increment a Number with JavaScript
 var incre=1;
 document.write(incre++);
+//Decrement a Number with JavaScript
+var decre=1;
+document.write(decre--);
