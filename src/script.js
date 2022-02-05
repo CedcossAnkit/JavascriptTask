@@ -135,3 +135,8 @@ var str1="ankit";
 var str2="";
 var str2=str1+"";
 console.log(str2);
+//Constructing Strings with Variables
+var str1="ankit";
+var str2="";
+var str2=str1+"";
+console.log(str2);
