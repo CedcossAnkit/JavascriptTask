@@ -140,8 +140,11 @@ var str1="ankit";
 var str2="";
 var str2=str1+"";
 console.log(str2);
-//Appending Variables to Strings
+//
 const someAdjective= "qweer";
 let myStr = "Learning to code is ";
 someAdjective+=myStr;
 myStr+=someAdjective;
+//Find the Length of a String
+var str1="askduasdjksadaskdblasbdjnasd";
+console.log("String Length: "+str1);
