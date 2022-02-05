@@ -211,3 +211,12 @@ const myArray = [
 
   //Manipulate Arrays With shift()
   console.log(my.shift())
+  console.log(my.slice(0,my.length));
+  
+  //Manipulate Arrays With unshift()
+  console.log(my.unshift(1))
+  console.log(my.slice(0,my.length));
+  
+  //Shopping List
+  const myList = ["choco","banana","mango","orange","more"];
+  console.log(myList.slice(0,myList.length));
