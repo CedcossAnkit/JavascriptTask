@@ -5,3 +5,4 @@ var myname;
 myname="ankit aginhotry";
 var yourname;
 yourname=myname;
+var a=9;
