@@ -35,3 +35,12 @@ let marks=0;
 marks=23;
 //This is not valid for let
 // var marks=34;
+
+//Declare a Read-Only Variable with the const Keyword
+const readonly="you can't change the value of const varible";
+
+//Add Two Numbers with JavaScript
+var num1=20;
+var num2=90;
+var add=num1+num2;
+document.write("add :",add);
