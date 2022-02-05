@@ -185,3 +185,6 @@ const nestedarr=['one','two',[12,3,5],'three'];
 console.log(nestedarr.slice(0,nestedarr.length));
 //Access Array Data with Indexes
 console.log(nestedarr[1]);
+//Modify Array Data With Indexes
+nestedarr[0]="zero";
+console.log(nestedarr[0]);
