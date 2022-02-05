@@ -65,3 +65,7 @@ var num22=50;
 
 var sub=num22/num11;
 document.write(sub);
+
+//Increment a Number with JavaScript
+var incre=1;
+document.write(incre++);
