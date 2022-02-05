@@ -331,3 +331,11 @@ function nextInLine(arr, item) {
     console.log('not eleigible for voating');
 
   }
+  //Comparison with the Inequality Operator
+  if(age!=18){
+    console.log('eleigible for voating');
+}
+else{
+  console.log('not eleigible for voating');
+
+}
