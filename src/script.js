@@ -161,3 +161,7 @@ unsimm[0]='W';
 console.log(unsimm);
 //Use Bracket Notation to Find the Nth Character in a String
 console.log(unsimm[3]);
+
+//Use Bracket Notation to Find the Last Character in a String
+var len=unsimm.length;
+console.log(unsimm[len-1]);
