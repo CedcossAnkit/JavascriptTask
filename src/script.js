@@ -101,4 +101,7 @@ c +=7;
 a -=12;
 b -=9;
 c -=7;
-//
+//Compound Assignment With Augmented Multiplication
+a *=12;
+b *=9;
+c *=7;
