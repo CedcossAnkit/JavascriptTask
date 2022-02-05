@@ -257,4 +257,8 @@ if (typeof oopsGlobal != "undefined") {
 console.log(output);
 }
 
-//
+//Local Scope and Functions
+let dfd=0 //Global Scope
+function fun(){
+    let a="";// Local Scope
+}
