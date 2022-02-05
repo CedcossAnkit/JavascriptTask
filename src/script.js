@@ -282,3 +282,23 @@ function processArg(num) {
 
 // Only change code below this line
 processed=processArg(7);
+function nextInLine(arr, item) {
+    arr.push(item);
+    arr.pop(item);
+    return item,arr.length;
+  
+  }
+  
+  // Setup
+  const testArr = [1, 2, 3, 4, 5];
+  
+  // Display code
+  console.log("Before: " + JSON.stringify(testArr));
+  console.log(nextInLine(testArr, 6));
+  console.log("After: " + JSON.stringify(testArr));
+
+  //Understanding Boolean Values
+  var tr=true;
+  var fa=false;
+  console.log(typeof(tr),typeof(fa));
+  
