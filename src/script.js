@@ -148,3 +148,6 @@ myStr+=someAdjective;
 //Find the Length of a String
 var str1="askduasdjksadaskdblasbdjnasd";
 console.log("String Length: "+str1);
+//Use Bracket Notation to Find the First Character in a String
+var str3="ankit"
+console.log(str3[0]);
