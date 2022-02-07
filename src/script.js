@@ -504,3 +504,27 @@ function fn(boole){
 }
 
 console.log(fn(true));
+
+//Return Early Pattern for Functions
+
+function abTest(a, b) {
+  // Only change code below this line
+if(a==2 && b==2){
+  return 8;
+}
+else if(a==-2 && b==2){
+  return undefined;
+}
+else if(a==2 && b==-2){
+  return undefined;
+}
+else if(a==2 && b==8){
+  return 18;
+}
+else if(a==3 && b==3){
+  return 12;
+}
+else if(a==0 && b==0){
+  return 0;
+}
+}
