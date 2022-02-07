@@ -449,7 +449,8 @@ function golfScore(par, strokes) {
 }
 
 //Selecting from Many Options with Switch Statements
-
+//and
+//Adding a Default Option in Switch Statements
 var sw=1;
 switch(sw){
   case 1:
