@@ -533,3 +533,7 @@ else if(a==0 && b==0){
 for(var i=0;i<10;i++){
   console.log(i);
 }
+//Count Backwards With a For Loop
+for(var i=10;i>=0;i++){
+  console.log(i);
+}
