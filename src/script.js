@@ -559,3 +559,5 @@ var record=[];
 while(i<10){
   record.append(i);
 }
+var nss=[1,2,3,[3,4,5,6,]];
+console.log(nss[3].value);
