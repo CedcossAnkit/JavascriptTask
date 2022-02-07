@@ -477,3 +477,15 @@ switch(sw){
     console.log("NAN");
     break;
 }
+
+//Replacing If Else Chains with Switch
+var age=40;
+
+switch(age){
+  case 18:
+    console.log('Your are Eligible For voting');
+  case 15:
+    console.log('Your are not eligible for voting');
+  default:
+    console.log('Please Enter a Correct age');
+}
