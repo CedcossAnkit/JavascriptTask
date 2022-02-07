@@ -413,4 +413,38 @@ if(age==18 || hff==20){
 }else{
     console.log('if (if and if else) not exicuted then else exicuted');
 }
-//
+//Chaining If Else Statements
+if(a==12){
+  console.log("12");
+}
+else if(a==56){
+  console.log("56");
+
+}
+else{
+  console.log("NAN");
+}
+
+//Golf Code
+const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+
+function golfScore(par, strokes) {
+  if(strokes==1)
+    {
+    return names[strokes];
+    }
+    else if(strokes<=par-1){
+      return names[strokes];
+    } 
+    else if(par-1==strokes){
+      return names[strokes];
+    }
+    else if(par==strokes){
+      return names[strokes];
+    }
+    else if(par+1==strokes){
+      return names[strokes];
+    }
+
+  // Only change code above this line
+}
