@@ -537,3 +537,7 @@ for(var i=0;i<10;i++){
 for(var i=10;i>=0;i++){
   console.log(i);
 }
+//Iterate Odd Numbers With a For Loop
+for(var i=0;i<10;i+2){
+  console.log(i);
+}
