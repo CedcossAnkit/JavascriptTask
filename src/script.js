@@ -528,3 +528,8 @@ else if(a==0 && b==0){
   return 0;
 }
 }
+
+//Iterate Through an Array with a For Loop
+for(var i=0;i<10;i++){
+  console.log(i);
+}
