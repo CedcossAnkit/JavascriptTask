@@ -546,3 +546,10 @@ for(var i=0;i<10;i+2){
 for(var i=0;i<10;i++){
   console.log(i);
 }
+
+//Iterate with JavaScript While Loops
+var vv=0;
+while(vv<10){
+  console.log(vv);
+  vv++;
+}
