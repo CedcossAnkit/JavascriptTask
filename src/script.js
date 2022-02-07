@@ -451,6 +451,8 @@ function golfScore(par, strokes) {
 //Selecting from Many Options with Switch Statements
 //and
 //Adding a Default Option in Switch Statements
+//and
+//Multiple Identical Options in Switch Statements
 var sw=1;
 switch(sw){
   case 1:
@@ -460,6 +462,17 @@ switch(sw){
   case 2:
     console.log('Two');
     break;
+  
+    case 2:
+    console.log('Three');
+      break;
+  
+      case 4:
+    console.log('Four');
+      break;
+  case 5:
+      console.log('Five');
+      break;
   default:
     console.log("NAN");
     break;
