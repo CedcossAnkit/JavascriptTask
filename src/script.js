@@ -413,3 +413,4 @@ if(age==18 || hff==20){
 }else{
     console.log('if (if and if else) not exicuted then else exicuted');
 }
+//
