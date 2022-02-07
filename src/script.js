@@ -541,3 +541,8 @@ for(var i=10;i>=0;i++){
 for(var i=0;i<10;i+2){
   console.log(i);
 }
+
+//Iterate with JavaScript For Loops
+for(var i=0;i<10;i++){
+  console.log(i);
+}
