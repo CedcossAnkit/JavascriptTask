@@ -553,3 +553,9 @@ while(vv<10){
   console.log(vv);
   vv++;
 }
+
+//Record Collection
+var record=[];
+while(i<10){
+  record.append(i);
+}
