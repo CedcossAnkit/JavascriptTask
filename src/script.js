@@ -446,5 +446,20 @@ function golfScore(par, strokes) {
       return names[strokes];
     }
 
-  // Only change code above this line
+}
+
+//Selecting from Many Options with Switch Statements
+
+var sw=1;
+switch(sw){
+  case 1:
+    console.log('one');
+    break;
+
+  case 2:
+    console.log('Two');
+    break;
+  default:
+    console.log("NAN");
+    break;
 }
