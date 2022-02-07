@@ -489,3 +489,18 @@ switch(age){
   default:
     console.log('Please Enter a Correct age');
 }
+
+//Returning Boolean Values from Functions
+
+function fn(boole){
+  if(boole==true){
+    return true;
+  }
+  else{
+    return false;
+  }
+
+
+}
+
+console.log(fn(true));
