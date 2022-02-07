@@ -561,3 +561,6 @@ while(i<10){
 }
 var nss=[1,2,3,[3,4,5,6,]];
 console.log(nss[3].value);
+
+//Build JavaScript Objects
+var obj={one:'one',two:'two'}
