@@ -564,3 +564,6 @@ console.log(nss[3].value);
 
 //Build JavaScript Objects
 var obj={one:'one',two:'two'}
+
+//Accessing Object Properties with Dot Notation
+console.log(obj.one);
